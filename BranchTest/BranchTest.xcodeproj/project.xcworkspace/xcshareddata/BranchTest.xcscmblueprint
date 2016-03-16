@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C741B6FDE6B18C99424CB10F22DA6727F0AE590D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A" : 0,
+    "C741B6FDE6B18C99424CB10F22DA6727F0AE590D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38369AC2-EE2F-4715-A15E-915A24C2B67C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A" : "",
+    "C741B6FDE6B18C99424CB10F22DA6727F0AE590D" : "Git%20test%20repo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BranchTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BranchTest\/BranchTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EthanHess\/RecipeDiary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EthanHess\/TestRepoGit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C741B6FDE6B18C99424CB10F22DA6727F0AE590D"
+    }
+  ]
+}
