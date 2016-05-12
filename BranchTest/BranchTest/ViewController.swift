@@ -14,12 +14,18 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     
         devTest("Hey!")
+        playground(NSDate())
         
     }
     
     func devTest(string: String) {
         
         print(string)
+    }
+    
+    func playground(date: NSDate) {
+        
+        print(date)
     }
 
     override func didReceiveMemoryWarning() {
