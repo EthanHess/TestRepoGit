@@ -14,18 +14,24 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     
         devTest("Hey!")
-        playground(NSDate())
+        playground(Date())
         
     }
     
-    func devTest(string: String) {
+    func devTest(_ string: String) {
         
         print(string)
     }
     
-    func playground(date: NSDate) {
+    func playground(_ date: Date) {
         
         print(date)
+        hereIsANewFunction()
+    }
+    
+    func hereIsANewFunction() {
+        
+        print("Hey it's June 26")
     }
 
     override func didReceiveMemoryWarning() {
