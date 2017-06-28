@@ -7,7 +7,11 @@
     "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A" : 0,
     "C741B6FDE6B18C99424CB10F22DA6727F0AE590D" : 0
   },
+<<<<<<< HEAD
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BBCD6828-FE13-409E-A087-3DE48549063A",
+=======
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38369AC2-EE2F-4715-A15E-915A24C2B67C",
+>>>>>>> master
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A" : "",
     "C741B6FDE6B18C99424CB10F22DA6727F0AE590D" : "Git%20test%20repo\/"

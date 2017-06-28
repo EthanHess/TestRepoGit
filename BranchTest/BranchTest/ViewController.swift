@@ -32,6 +32,8 @@ class ViewController: UIViewController {
     func hereIsANewFunction() {
         
         print("Hey it's June 26")
+        
+        // THIS IS THE MASTER BRANCH!!
     }
 
     override func didReceiveMemoryWarning() {
