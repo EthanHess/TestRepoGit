@@ -12,6 +12,26 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+    
+        devTest("Hey!")
+        playground(Date())
+        
+    }
+    
+    func devTest(_ string: String) {
+        
+        print(string)
+    }
+    
+    func playground(_ date: Date) {
+        
+        print(date)
+        hereIsANewFunction()
+    }
+    
+    func hereIsANewFunction() {
+        
+        print("Hey it's June 26")
         
         // THIS IS THE MASTER BRANCH!!
     }
